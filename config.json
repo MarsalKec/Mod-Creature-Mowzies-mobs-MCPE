@@ -1,0 +1,138 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "UNOFFICIAL Mowzie's Mobs V1.5",
+        "role": "This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.Mowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/UNOFFICIAL Mowzie's Mobs V1.5.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/dua.png"
+    },
+    {
+        "name": "Foliaath Addon",
+        "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity. When you kill it, it drops its seeds for you, but don't hope that you can tame it because it will keep attacking you. I hope you like this addon",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/Foliaath Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/1.png"
+    },
+    {
+        "name": "Black FW Addon",
+        "role": "This addon adds a great looking, huge, and extremely powerful armored beast that has many combat poses, is impervious to all sources of damage, is extremely aggressive and attacks all creatures even Armor Stand has not been spared.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/Black FW.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/1.png"
+    },
+    {
+        "name": "Naga Addon",
+        "role": "This addon adds a ferocious winged snake called Nagas, which lives in coastal cliffs and stony beaches, and is very aggressive towards players as it shoots poisonous acid shells at them.I hope you like this addon",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/Naga.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/1.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/OSMUT0Lvc1ECdpIrIxEgyz0DAMZWS0GmnsMYPVhE_0A4bWUuIr9sMxGzINJh7liI49EdhHqyABJvwAxfpi-lqOQ",
+    "view_skin": "https://lh3.googleusercontent.com/vqU311so02a5WarPQixo17szCxqDLBmBcg8TVsR0v28TlbZWcbhtHfmLaDVqoGk5wmPG6cBKpvM7h3kLqDTlnQ"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/gfm5tIooIEh89Th3Ckag08FZHoZwdxkynJA5kr9RgHmyAaqMQ9IUrhiTsiug07uuN8_9q7xQC-OM3BISP4J_0A",
+    "view_skin": "https://lh3.googleusercontent.com/HCkqtEl3AlkyM2UsbWH4D5HDfz-EmR-KaC6QKGoNlWrzYEGp163pEG2TTbwhSfaCUR00cn3mQw-_AbhvgzLURQ"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kLEd0nbyjPJBEy67uzYeWFLH_O-dE7z7aTPoTSoBgjkuET6uhmptL3ofCnXsjHft_iMc7xYPtSYEKhQWTPDTPLUdEKaCjfhvVg",
+    "view_skin": "https://lh3.googleusercontent.com/0KfMFfkatJLXT_yTHOcrLBMTZUprVwP8r0cxDVQBGGt0UD9YnmI9DIrU28CIXgfNt9bqPW6BtKTOBVFfSXMKrrslI2FmsnuRh6gO"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8CJPutId3EEfXcrINlna5vXpX_-skKGVJKcpbbaFtRM2VcJnNUClRuOPz5WaPwIYdy9hZtYH_7HpzVid7YsAqOLxM4JbkZTFdiA",
+    "view_skin": "https://lh3.googleusercontent.com/HLsUYBgNZahuAzYZXFT4t8_CtVDNX4lfjt76naiqav7KChTXKJLxBM0ZBgG9Hfy5pT_h9ePrxd7Q4iv5DUc5j0eeGOeTgKmXUw"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/bfUeO_x7clF1W9PWAD2kT-0kDvMFO1UEh9kEFHv33_9y27_HlO9zWMwFYmUBInpbXKUZ-KLTHwVwHvr0AzgbqHOxfwO5nBfRC-U",
+    "view_skin": "https://lh3.googleusercontent.com/xvVFQ-wd8qz7RAttcHO5Fztm9jnlmGV0T9_AagS85EAPDHn_YxASc5CdkOvVFOpoy3g8S00K7_Lbnrp1JJYrHf5nT8ayzei0UOU"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
