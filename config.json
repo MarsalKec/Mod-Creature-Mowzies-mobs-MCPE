@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,36 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "UNOFFICIAL Mowzie's Mobs V1.5",
-        "role": "This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.Mowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/enam.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/UNOFFICIAL Mowzie's Mobs V1.5.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/empat.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/dua.png"
-    },
-    {
-        "name": "Foliaath Addon",
-        "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity. When you kill it, it drops its seeds for you, but don't hope that you can tame it because it will keep attacking you. I hope you like this addon",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/Foliaath Addon.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/1.png"
-    },
-    {
-        "name": "Black FW Addon",
-        "role": "This addon adds a great looking, huge, and extremely powerful armored beast that has many combat poses, is impervious to all sources of damage, is extremely aggressive and attacks all creatures even Armor Stand has not been spared.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/Black FW.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/1.png"
-    },
-    {
-        "name": "Naga Addon",
-        "role": "This addon adds a ferocious winged snake called Nagas, which lives in coastal cliffs and stony beaches, and is very aggressive towards players as it shoots poisonous acid shells at them.I hope you like this addon",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/Naga.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
